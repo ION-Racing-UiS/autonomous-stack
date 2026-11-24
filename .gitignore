@@ -2,3 +2,20 @@ build/
 install/
 log/
 .ssh_keys/
+
+# Recordings and large data (share on the team drive instead)
+*.bag
+*.db3
+*.mcap
+*.pcap
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# MATLAB / Simulink autosave and build output
+*.asv
+*.autosave
+slprj/
+*.slxc

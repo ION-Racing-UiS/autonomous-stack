@@ -9,5 +9,9 @@ Do not commit the PDFs (public repo).
 |On the Quadratic Programming Solution for Model Predictive Control with Move Blocking (Pavel Otta, Ondrej Santin, Vladimır Havlena) | 2020 | Model Predictive Control | [arXiv:2002.06835v1](https://arxiv.org/pdf/2002.06835)|
 |LPV-MPC for Lateral Control in Full-Scale Autonomous Racing (Hassan Jardali, Ihab S. Mohamed, Durgakant Pushp and Lantao Liu) | 2026 | Model Predictive Control | [arXiv:2603.13732v1](https://arxiv.org/pdf/2603.13732)|
 |Vehicle’s Lateral Motion Control Using Dynamic Mode Decomposition (Guntae Kim, Chaehun Park, Cheolmin Jeong, Chang Mook Kang, Jaeil Cho, Hyungchae Lee, Jaeho Lee, Donghyun Kang) | 2024 | Model Predictive Control for Unknown Model | [International Journal of Automotive Technology](https://link.springer.com/article/10.1007/s12239-024-00074-y)|
+|Magic Formula Tire Modeling in Formula Student (Tanya Kuruvilla)| 2022 | Tyre modelling | [Magic Formula Tire Modeling in Formula Student](https://blogs.mathworks.com/student-lounge/2022/06/07/mf-tyre/)|
+|Simulating Trajectory Tracking Controllers for Driverless Cars (Tanya Kuruvilla) | 2022 | Control with Matlab and Simulink | [Simulating Trajectory Tracking Controllers for Driverless Cars](https://blogs.mathworks.com/student-lounge/2022/05/23/simulating-trajectory-tracking-controllers-for-driverless-cars/)|
+|Adaptive MPC Design with Simulink and Model Predictive Control Toolbox (Melda Ulusoy)| 2018 | Adaptive Model Predictive Control | [Adaptive MPC](https://se.mathworks.com/videos/understanding-model-predictive-control-part-7-adaptive-mpc-design-with-simulink-and-model-predictive-control-toolbox--1539762605717.html)|
+|Nonlinear MPC Design with Model Predictive Control Toolbox and FORCESPRO | 2021 | Nonlinear Model Predictive Control | [Nonlinear MPC](https://se.mathworks.com/videos/understanding-model-predictive-control-part-8-nonlinear-mpc-design-with-model-predictive-control-toolbox-and-forcespro-1635240375047.html)|
 
 
